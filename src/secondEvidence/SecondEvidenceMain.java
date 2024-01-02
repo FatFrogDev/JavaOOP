@@ -1,8 +1,10 @@
+package secondEvidence;
+
 import java.util.Scanner;
 import  secondEvidence.*;
 
 public class SecondEvidenceMain {
-    public static void main(String[] args) {
+   /* public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         Bike bike = new Bike();
         MountainBike mb = new MountainBike();
@@ -32,5 +34,5 @@ public class SecondEvidenceMain {
         System.out.println("The result of your car is: " + luxCar.toString());
         scan.reset();
 
-    }
+    } */
 }
