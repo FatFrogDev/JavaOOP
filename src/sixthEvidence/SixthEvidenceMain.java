@@ -1,7 +1,6 @@
 package sixthEvidence;
 
 public class SixthEvidenceMain {
-/*
     public static void main(String[] args) {
         Ape ape = new Ape();
         Giraffe giraffe = new Giraffe();
@@ -12,5 +11,4 @@ public class SixthEvidenceMain {
         System.out.println(turtle.toString());
 
     }
- */
 }
