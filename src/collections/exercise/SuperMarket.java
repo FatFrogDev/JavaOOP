@@ -1,4 +1,4 @@
-package collections.homework;
+package collections.exercise;
 
 import java.util.*;
 

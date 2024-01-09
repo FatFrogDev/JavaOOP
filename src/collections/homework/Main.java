@@ -1,11 +1,8 @@
 package collections.homework;
 
-import  java.util.Scanner;
-
 public class Main {
-    public static void main(String[] args){
-        Scanner scan = new Scanner(System.in);
-        SuperMarket market = new SuperMarket();
-        market.start(scan);
+    public static void main(String[] args) {
+        Restaurant res = new Restaurant();
+        res.start();
     }
 }

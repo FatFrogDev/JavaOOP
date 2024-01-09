@@ -1,4 +1,4 @@
-package collections.homework;
+package collections.exercise;
 
 public class Product {
     private  int productId;
